@@ -1,3 +1,5 @@
+# create a repository on github. 
+
 # create a new repository from cmd
 echo "# git" >> README.md
   git init
@@ -12,7 +14,5 @@ echo "# git" >> README.md
   git branch -M main
   git push -u origin main
 
-
-
-# 
+# change url pointer 
 git remote set-url origin https://954gmo:<MYTOKEN>@github.com/954gmo/git.git
