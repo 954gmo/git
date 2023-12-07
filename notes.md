@@ -1,9 +1,14 @@
 # Resource
 - [git SCM ](https://git-scm.com/)
 - [Git Pro](https://git-scm.com/book/en/v2)
-# create a repository on github. 
 
-# create a new repository from cmd
+
+
+# CMDs
+## create a repository on github. 
+
+
+## create a new repository from cmd
 $ echo "# git" >> README.md
 
 $ git init
@@ -25,5 +30,5 @@ $ git branch -M main
 
 $  git push -u origin main
 
-# change url pointer 
+## change url pointer 
 $ git remote set-url origin https://954gmo:MYTOKEN@github.com/954gmo/git.git
